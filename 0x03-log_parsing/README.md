@@ -1,16 +1,19 @@
 
+##Log Parsing Script
 
+#Overview
 
-
-Log Parsing Script
-Overview
 This Python script is designed to parse log data from stdin, compute metrics, and generate statistics based on the specified input format. It reads input line by line, processes the data, and provides output according to the defined requirements.
-Requirements
+
+#Requirements
+
 Python 3.4.3 or later
 Linux environment (Ubuntu 20.04 LTS recommended)
 PEP 8 style compliance (version 1.7.x)
 Supported editors: vi, vim, emacs
-Installation
+
+#Installation
+
 Clone the repository:
 bash
 Copy code
